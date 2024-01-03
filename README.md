@@ -62,7 +62,7 @@ Finally, minimal use of [_hyperscript](https://hyperscript.org/) is made to achi
 
 ## Setup:
 
-Besides the obvious prerequisite of having Go! on your machine, you must have Air installed for hot reloading when editing code.
+Besides the obviouof having Go! on your s prerequisite machine, you must have Air installed for hot reloading when editing code.
 
 Start the app in development mode:
 
